@@ -138,4 +138,7 @@ void CreateBST(BTNode*&bt, int key[],int n)
 
 //平衡二叉树（平衡二叉树是二叉排序树，左右子树高度之差绝对值不超过1）
 
+//B-树
+//B+树
 
+//散列表（hash表）
